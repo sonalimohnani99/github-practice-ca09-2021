@@ -29,4 +29,4 @@
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/>   |<https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2021-08-28 |
-|00|Lukas Kugler   | 12     | Lukas-LBS
+|3735283|Sonali Mohnani   | 3A    | sonalimohnani99 |https://github.com/sonalimohnani99/individual_project   |      |2021-09-28 |
